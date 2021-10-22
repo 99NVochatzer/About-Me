@@ -10,3 +10,5 @@ Navigate my website by using these links:
 [Coding](./coding.md)
 
 [Meteorology](./meteorology.md)
+
+![Certificate](https://github.com/username/image.png)
