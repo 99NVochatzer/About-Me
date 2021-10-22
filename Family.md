@@ -13,4 +13,4 @@
 1. Cape (rat)
 1. Cin (rat)
 
-[Go back ro home page](./README.md)
+[Go back to home page](./README.md)
